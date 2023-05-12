@@ -18,6 +18,7 @@ def madlibs():
           lay ahead. With {adverb} speed, the hero dashed towards the noise, holding their {noun} tightly. Little 
           did they know, a thrilling adventure awaited them!
           """)
-
+    
+# Call the function
 madlibs()
 
